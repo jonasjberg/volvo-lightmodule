@@ -1,4 +1,4 @@
-update=tis 21 okt 2014 18:14:16
+update=tis 28 okt 2014 23:17:31
 version=1
 last_client=kicad
 [cvpcb]
@@ -93,3 +93,16 @@ LibName59=jonas_ttl_ieee
 LibName60=jonas_valves
 LibName61=jonas_video
 LibName62=jonas_xilinx
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/spock/projects/dimmer/release/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
